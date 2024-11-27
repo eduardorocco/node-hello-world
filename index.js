@@ -9,3 +9,5 @@ const params = process.argv.slice(2)
 console.log(params);
 
 console.log(`Hello ${params[0]}`);
+
+console.log('ciao')
